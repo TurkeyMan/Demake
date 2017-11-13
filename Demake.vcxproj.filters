@@ -9,5 +9,8 @@
     <DCompile Include="src\main.d">
       <Filter>src</Filter>
     </DCompile>
+    <DCompile Include="src\lua.d">
+      <Filter>src</Filter>
+    </DCompile>
   </ItemGroup>
 </Project>

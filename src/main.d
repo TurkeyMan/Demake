@@ -1,8 +1,19 @@
 import std.stdio;
 
+import lua;
+
 int main()
 {
-    writeln("Hello\n");
+	// detect system settings
+
+
+	// init the demake engine
+
+
+	// init the lua VM
+	initLua();
+
+	writeln("Hello world!");
+
     return 0;
 }
-
